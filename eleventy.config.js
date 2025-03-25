@@ -6,6 +6,6 @@ export default (eleventyConfig) => {
   });
   eleventyConfig.addPassthroughCopy("css");
   return {
-    pathPrefix: "/tiny11ty/",
+    pathPrefix: "/tiny11ty-test2/",
   };
 };
